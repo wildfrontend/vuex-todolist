@@ -68,3 +68,21 @@ export default {
   }
 };
 </script>
+
+<style scoped>
+.new-todo {
+  width: 300px;
+  font-size: 18px;
+  padding: 5px;
+}
+ul {
+  width: 300px;
+  margin: 50px auto;
+  list-style: none;
+}
+.todo {
+  font-weight: bold;
+  font-size: 18px;
+  letter-spacing: 1px;
+}
+</style>
